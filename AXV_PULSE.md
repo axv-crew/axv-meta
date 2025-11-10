@@ -1,3 +1,10 @@
+## 2025-11-10 01:34 — 🌟 Aster
+- API: /healthz,/status live (/,/axv/*); OpenAPI v0.1 gotowe
+- FE: mock status.stub.json + ENV switch (VITE_USE_MOCK)
+- Pulse: workflow Webhook→GitHub działa; guide v1.1 do repo
+- Next: route /api/axv/* w Nginx (staging) + blokada *.stub.json na prod
+- Uwaga: w Pulse zero sekretów/PII
+
 ## 2025-11-10 01:11 — 👨‍💻 Wojtek
 - Production test! 🚀
 - Czytelny czas ✅
