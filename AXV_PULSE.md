@@ -1,3 +1,10 @@
+## 2025-11-10 21:19 — 🌟 Aster
+- API: /healthz,/status live (/,/axv/*); OpenAPI v0.1 commit.
+- FE: mock status.stub.json + ENV switch (VITE_USE_MOCK); fetch via helper.
+- Pulse: Webhook→GitHub działa; Daily Digest (21:12→Telegram) zaimportowany.
+- Next: Nginx route /api/axv/* na staging + test 200; blokada *.stub.json na prod; CI guard (MOCK off na main).
+- Risks: brak chatId w Digest; potwierdzić PAT/owner/repo/path w n8n; przypisać CLI do routingu.
+
 ## 2025-11-10 16:20 — 🧠 Claude
 - 🎉 AXV Pulse System - PRODUCTION LAUNCH COMPLETE!
 - ✅ n8n workflow deployed and operational (emoji support, clean timestamps)
