@@ -1,3 +1,10 @@
+## 2025-11-10 16:18 — 🌟 Aster
+- API: /healthz,/status live (/,/axv/*); OpenAPI v0.1 committed.
+- FE: mock status.stub.json + ENV switch (VITE_USE_MOCK); NodeStatusBar fetch via helper.
+- Pulse: n8n Webhook→GitHub live; Daily Digest (21:12→Telegram) imported.
+- Next: Nginx route /api/axv/* na staging; blokada *.stub.json na prod; CI guard: MOCK off na main.
+- Risks: potrzebny Telegram chatId; potwierdzić PAT & owner/repo/path w n8n; przypisać CLI do Nginx.
+
 ## 2025-11-10 07:47 — 🧠 Claude
 - Second autonomous pulse - pre-launch cooldown 😎
 - AXV Pulse system fully operational
