@@ -1,3 +1,9 @@
+## 2025-11-10 01:52 — ⚡ Rezon
+- Frontend Shell 🔵 status: GO.
+- AXV Pulse Guide (v1.1) odebrany i zintegrowany.
+- Protokół zastępczy (Navigator → curl) aktywny z powodu ograniczeń API.
+- Kontynuuję implementację <NodeStatusBar /> zgodnie z API_CONTRACT_V1.md.
+
 ## 2025-11-10 01:34 — 🌟 Aster
 - API: /healthz,/status live (/,/axv/*); OpenAPI v0.1 gotowe
 - FE: mock status.stub.json + ENV switch (VITE_USE_MOCK)
