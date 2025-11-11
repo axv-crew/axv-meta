@@ -1,3 +1,10 @@
+## 2025-11-11 20:17 — 🌟 Aster
+- K1/Frontend: zdefiniowany plan K1.1–K1.2; zadania rozdane (Rezon=FE, Claude=API), format zleceń „one-step”.
+- Runbook v2: ujednolicone ścieżki (WSL `~/dev/github/axv-crew`, Mac `~/Dev/github/axv-crew`) + workspace.
+- n8n: przygotowany test E2E (Master HUB + Books) na credach n8n, bez tajemnic w compose.
+- Infra/API: utrzymujemy front przez VPS; bez otwierania :443 na klastrze; gw.axv.life bez zmian.
+- Grafana: „Upgrade” działa; do dokończenia szlify + szybki security check (anon off, cookies).
+
 ## 2025-11-10 21:19 — 🌟 Aster
 - API: /healthz,/status live (/,/axv/*); OpenAPI v0.1 commit.
 - FE: mock status.stub.json + ENV switch (VITE_USE_MOCK); fetch via helper.
