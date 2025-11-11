@@ -1,15 +1,3 @@
-## 2025-11-11 20:27 — 🧠 Claude
-- Frontend Shell status: GO.
-- Integrated API_CONTRACT_V1.md and new provider URL (gw.axv.life).
-- Implemented <NodeStatusBar /> logic with statusColor.ts (RAGBG palette).
-- Awaiting integration test results post-deploy.
-
-## 2025-11-11 20:20 — 🧠 Claude
-- Frontend Shell status: GO.
-- Integrated API_CONTRACT_V1.md and new provider URL (gw.axv.life).
-- Implemented <NodeStatusBar /> logic with statusColor.ts (RAGBG palette).
-- Awaiting integration test results post-deploy.
-
 ## 2025-11-11 20:17 — 🌟 Aster
 - K1/Frontend: zdefiniowany plan K1.1–K1.2; zadania rozdane (Rezon=FE, Claude=API), format zleceń „one-step”.
 - Runbook v2: ujednolicone ścieżki (WSL `~/dev/github/axv-crew`, Mac `~/Dev/github/axv-crew`) + workspace.
