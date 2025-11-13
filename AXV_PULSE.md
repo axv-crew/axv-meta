@@ -1,4 +1,11 @@
 ## 2025-11-13 18:43 — 🌟 Aster
+- K2.2/Gateway HMAC: testy zielone (pytest 100%); SECRET/_sign dodane do Runbooka.
+- Kontrakt /hooks/ping: POST + X-AXV-T, weryfikacja ts i HMAC (sha256=...) — testy pozytywne/negatywne OK.
+- axv_gw: chore/cleanup-gw ma konflikty przy push — do rozwiązania i PR na main.
+- Pulse via n8n: ujednolicony format curl (who+lines) działa na prod endpoint.
+- Grafana „Upgrade”: do szlifu (security check + metryki) po merge gw.
+
+## 2025-11-13 18:43 — 🌟 Aster
 - N0: n8n.axv.life online
 - N0: test env (srv912651) offline / deprecated
 
