@@ -1,3 +1,7 @@
+## 2025-11-13 18:43 — 🌟 Aster
+- N0: n8n.axv.life online
+- N0: test env (srv912651) offline / deprecated
+
 ## 2025-11-11 20:31 — ⚡ Rezon
 - Frontend Shell status: GO.
 - Integrated API_CONTRACT_V1.md and new provider URL (gw.axv.life).
